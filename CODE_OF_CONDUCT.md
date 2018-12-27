@@ -244,7 +244,9 @@ a project may be further defined and clarified by project maintainers.
 This code of conduct and its related procedures also applies to unacceptable
 behavior occurring outside the scope of community activities when such behavior
 has the potential to adversely affect the safety and well-being of community
-members.
+members, including peer-to-peer communication between individuals facilitated by
+this community (i.e. private conversations between people who would not
+otherwise know or interact with each other).
 
 ## Contact info
 
